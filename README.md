@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi humans! Just do a GitHub guides, nice to see you!
